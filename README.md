@@ -1,5 +1,7 @@
 💻 Gestão de Produtos - Front-End (Angular)
 
+![Interface do Aplicativo de Gestão de Produtos](./src/assets/image.png)
+
 Este repositório contém a interface de usuário (Front-End) do sistema de Gestão de Produtos, desenvolvida durante o Bootcamp. Esta aplicação consome uma API RESTful desenvolvida em .NET (disponível em outro repositório) para realizar operações de gerenciamento de dados.
 
 🚀 Tecnologias Utilizadas
